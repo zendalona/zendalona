@@ -1,0 +1,260 @@
+{
+    "version": "v1.0.0",
+    "entity": {
+      "type": "organisation",
+      "role": "owner",
+      "name": "Zendalona",
+      "email": "zendalona@gmail.com",
+      "phone": "08281029215",
+      "description": "We are an organisation providing free and open-source accessibility solutions for the visually challenged\n\n",
+      "webpageUrl": {
+        "url": "https://zendalona.com/"
+      }
+    },
+    "projects": [
+      {
+        "guid": "accessible-coconut",
+        "name": "Accessible-Coconut",
+        "description": "Accessible-Coconut(AC)is a community-driven GNU/Linux operating system that is fully accessible for individuals with visual impairments. AC is based on Ubuntu MATE. The goal is to create a free and open-source desktop environment that is accessible without relying on vision.\n\nTo-Do: Create new version 24.04 based on Ubuntu 24.04",
+        "webpageUrl": {
+          "url": "https://zendalona.com/accessible-coconut/"
+        },
+        "repositoryUrl": {
+          "url": "https://sourceforge.net/projects/accessible-coconut/"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "linux",
+          "operating-systems",
+          "user-experience",
+          "accessibility"
+        ]
+      },
+      {
+        "guid": "sbw",
+        "name": "Sharada-Braille-Writer",
+        "description": "Sharada-Braille-Writer is a text editor that supports braille input. In SBW, simultaneous multiple presses of braille combinations produce corresponding letters. This allows users to input text in more than 40 languages using braille knowledge in a Perkins-like manner. The letters F, D, S, J, K, L represent dots 1, 2, 3, 4, 5, 6 of the braille cells, respectively. For example, pressing ‘F’ and ‘S’ together will produce the letter ‘K,’ and so on.\n\nTo-do: Porting to Microsoft Windows and MacOS",
+        "webpageUrl": {
+          "url": "https://zendalona.com/sbw/"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/zendalona/sbw"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "accessibility",
+          "productivity",
+          "education"
+        ]
+      },
+      {
+        "guid": "lios",
+        "name": "Linux-Intelligent-OCR-Solution(Lios)",
+        "description": "Linux-Intelligent-OCR-Solution(Lios)\nLios is a for converting printed text into digital text using either a scanner or a camera. It can also extract text from scanned images sourced from PDF files, images, folders containing images, or screenshots. The program is designed with total accessibility for visually impaired users.\n\nTo-Do: Porting to Microsoft Windows\n",
+        "webpageUrl": {
+          "url": "https://zendalona.com/lios/"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/zendalona/lios"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "accessibility",
+          "education"
+        ]
+      },
+      {
+        "guid": "maths-tutor",
+        "name": "Accessible Maths-Tutor",
+        "description": "Accessible Maths-Tutor is an engaging and interactive math tutoring game designed to improve math skills while providing an enjoyable gaming experience. It offers a user-friendly interface with math questions, images, and sound effects. Players receive instant feedback and can customize questions, making it an educational tool for learners of all ages.\n\nTo-Do : Version 2",
+        "webpageUrl": {
+          "url": "https://zendalona.com/accessible-maths-tutor/"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/zendalona/maths-tutor-v2/tree/main"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "accessibility",
+          "education",
+          "gaming",
+          "science"
+        ]
+      },
+      {
+        "guid": "math-mantra",
+        "name": "Math-Mantra",
+        "description": "Develop a comprehensive smartphone application that encompasses all the features of the Math-Tutor computer version (Project 4 given above). Additionally, integrate the functionalities outlined in the \"What we need\" section. The application should leverage diverse inputs such as Touch Screen, Accelerometer, Microphone, GPS, Clock, magnetometers, etc., providing an immersive and interactive learning experience. Implement feedback mechanisms using stereo sound, vibrations, and other sensory cues for enhanced user engagement and effectiveness. \n \nOutcome: Include the following concepts in the application: \n \n1. Utilize phone sensors and stereo sound to teach cardinal directions (North, East, West, South) through interactive methods. \n2. Integrate lessons on Angle X, Y, Z, and incorporate simple distance/height calculations using trigonometric functions. \n3. Enable user engagement by allowing kids to input answers through sound or clapping using the device's microphone. \n4. Leverage GPS functionality to teach distance-related concepts, providing a real-world context for understanding spatial relationships. \n5. Implement multi-touch functionality on the screen to teach number concepts and facilitate the drawing of various shapes such as triangles, rectangles, rounds, ovals, etc.\n\nTo-Do: Make existing version to production",
+        "webpageUrl": {
+          "url": "https://zendalona.com/math-mantra/"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/zendalona/Math-Mantra"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "accessibility",
+          "education",
+          "gaming",
+          "science",
+          "android",
+          "bots"
+        ]
+      },
+      {
+        "guid": "snakes-and-ladders",
+        "name": "Accessible Snakes-and-Ladders ",
+        "description": "Accessible Snakes-and-Ladders is a board game application designed to deliver the timeless enjoyment of Snakes and Ladders while prioritizing accessibility for all players. This application encapsulates the thrill of traditional gaming scenarios, bringing them to life within your computer.\n\nTo-Do: Develop Version 2 and Make it available in Microsoft Windows and MacOS",
+        "webpageUrl": {
+          "url": "https://zendalona.com/accessible-snakes-and-ladders/"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/zendalona/snakes-and-ladders"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "accessibility",
+          "education",
+          "gaming",
+          "science"
+        ]
+      },
+      {
+        "guid": "bluff",
+        "name": "Accessible-Bluff",
+        "description": "Accessible-Bluff is a web-based card game that relies on the skill of bluffing, replicating real-world gaming scenarios within the software. The game is designed with accessibility in mind, ensuring that all actions and information are conveyed audibly using a screen reader.\n\nTo-Do: Create android version and Game Boat",
+        "webpageUrl": {
+          "url": "https://zendalona.com/accessible-bluff/"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/zendalona/accessible-bluff"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "accessibility",
+          "education",
+          "gaming",
+          "bots"
+        ]
+      },
+      {
+        "guid": "zen-desk",
+        "name": "ZenDesk",
+        "description": "Accessible TruDesk(User Query Management System) for Visually Impaired\nTo-Do: Fix all bugs and release initial version as ZenDesk",
+        "webpageUrl": {
+          "url": "https://zendalona.com/zendesk/"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/zendalona/trudesk"
+        },
+        "licenses": [
+          "Apache V2"
+        ],
+        "tags": [
+          "accessibility",
+          "education",
+          "linux",
+          "bots"
+        ]
+      },
+      {
+        "guid": "wme",
+        "name": "World-Map-Explorer",
+        "description": "The Accessible World-Map-Explorer is a project aimed at creating an interactive mapping tool that prioritizes accessibility for users with disabilities, particularly those who are visually impaired.\nTo-Do: Create first stable web-application and Android version",
+        "webpageUrl": {
+          "url": "https://zendalona.com/map"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/zendalona"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "accessibility",
+          "education",
+          "map",
+          "science",
+          "android"
+        ]
+      },
+      {
+        "guid": "accessible-telegram",
+        "name": "Telegram Desktop Accessibility ",
+        "description": "Telegram is widely adopted by visually impaired users for its chat capabilities; however, the desktop version lacks accessibility features. Unfortunately, the developers seem less inclined to address this issue, as the number of affected users is relatively low compared to other reported bugs. \n \nIssue: https://github.com/telegramdesktop/tdesktop/issues/476#issuecomment-450670711 \n \nTo-Do: \nA pull request for the Telegram desktop addressing the following issues: \n1. Ensure that the screen reader announces all focused elements accurately. \n2. Ensure consistent behavior for keys such as Tab, Shift-Tab, and Arrow keys. \n3. Implement keyboard shortcuts for navigating between messages, pinning messages, playing and pausing voice messages, and other essential functions. \n\n",
+        "webpageUrl": {
+          "url": "https://github.com/telegramdesktop/tdesktop"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/telegramdesktop/tdesktop"
+        },
+        "licenses": [
+          "GPL-V3"
+        ],
+        "tags": [
+          "accessibility",
+          "linux",
+          "communication"
+        ]
+      },
+      {
+        "guid": "rh-voice-malayalam",
+        "name": "RH-Voice Malayalam",
+        "description": "Currently, the only available free and open-source Malayalam Text-to-Speech (TTS) engine is eSpeak. However, eSpeak's synthesized voice is often criticized for being robotic and lacking naturalness. To address this limitation, there is a need for a Malayalam voice compatible with RH-Voice, a free and open-source multilingual speech synthesizer that works across various platforms, including GNU/Linux, Windows, and Android. Key Features Desired in TTS for Visually Impaired Users are 1. Natural Voicing 2. Low Response Time 3. Multilingual Support",
+        "webpageUrl": {
+          "url": "https://rhvoice.org/"
+        },
+        "repositoryUrl": {
+          "url": "https://github.com/RHVoice/RHVoice"
+        },
+        "licenses": [
+          "GPL-V2"
+        ],
+        "tags": [
+          "accessibility",
+          "education",
+          "linux",
+          "user-experience"
+        ]
+      }
+    ],
+    "funding": {
+      "channels": [
+        {
+          "guid": "organisation-account",
+          "type": "bank",
+          "address": "Account: 41655610278 IFS Code: SBIN0070346",
+          "description": "Account Name: ZENDALONA\nBank: State Bank of India (SBI)"
+        }
+      ],
+      "plans": [
+        {
+          "guid": "organisation-account",
+          "status": "active",
+          "name": "Funding for development of software",
+          "description": "We are continuously developing new software, enhancing existing ones, and providing ongoing support.",
+          "amount": 500000,
+          "currency": "INR",
+          "frequency": "monthly",
+          "channels": [
+            "organisation-account"
+          ]
+        }
+      ],
+      "history": []
+    }
+  }
