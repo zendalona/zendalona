@@ -8,8 +8,8 @@
       "phone": "08281029215",
       "description": "We are an organisation providing free and open-source accessibility solutions for the visually challenged\n\n",
       "webpageUrl": {
-        "url": "https://zendalona.com/"
-      }
+        "url": "https://zendalona.com/",
+        "wellKnown": "https://github.com/zendalona/"       }
     },
     "projects": [
       {
